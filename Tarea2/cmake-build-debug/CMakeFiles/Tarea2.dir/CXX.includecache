@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abigail/Escritorio/Tarea2/Manana.h
+Saludo.h
+/home/abigail/Escritorio/Tarea2/Saludo.h
+
+/home/abigail/Escritorio/Tarea2/Saludo.h
+iostream
+-
+cstring
+-
+
+/home/abigail/Escritorio/Tarea2/SaludoFactory.cpp
+SaludoFactory.h
+/home/abigail/Escritorio/Tarea2/SaludoFactory.h
+
+/home/abigail/Escritorio/Tarea2/SaludoFactory.h
+string
+-
+Manana.h
+/home/abigail/Escritorio/Tarea2/Manana.h
+cmake-build-debug/Tarde.h
+/home/abigail/Escritorio/Tarea2/cmake-build-debug/Tarde.h
+
+/home/abigail/Escritorio/Tarea2/cmake-build-debug/Tarde.cpp
+Tarde.h
+/home/abigail/Escritorio/Tarea2/cmake-build-debug/Tarde.h
+
+/home/abigail/Escritorio/Tarea2/cmake-build-debug/Tarde.h
+../Saludo.h
+/home/abigail/Escritorio/Tarea2/Saludo.h
+
+/home/abigail/Escritorio/Tarea2/main.cpp
+iostream
+-
+SaludoFactory.h
+/home/abigail/Escritorio/Tarea2/SaludoFactory.h
+

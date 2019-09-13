@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tarea2.dir/main.cpp.o CMakeFiles/Tarea2.dir/Saludo.cpp.o CMakeFiles/Tarea2.dir/Manana.cpp.o CMakeFiles/Tarea2.dir/Tarde.cpp.o CMakeFiles/Tarea2.dir/SaludoFactory.cpp.o  -o Tarea2 
